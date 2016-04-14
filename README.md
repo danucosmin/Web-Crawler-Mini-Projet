@@ -10,8 +10,7 @@ Pour realiser ce projet on doit faire le premiere phase c’est-à-dire : docume
 https://en.wikipedia.org/wiki/Web_crawler <br>
 http://aplicatiiweb.blogspot.ro/2007/12/web-crawler.html  <br>
 http://computer.howstuffworks.com/internet/basics/search-engine1.htm <br>
-https://github.com/FCC/Crawler <br>
-http://www.netinstructions.com/how-to-make-a-web-crawler-in-under-50-lines-of-python-code/ <br><br><br>
+https://github.com/FCC/Crawler <br><br><br>
  
 
 
