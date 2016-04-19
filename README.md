@@ -1,6 +1,6 @@
 
 #Premiere phase <br> <br>
-**1.Presentation d’equipe et la theme de projet**
+**1.Presentation d’equipe et la theme de projet** 
 
 Notre equipe est forme de quatre membres : **_Brezoaie Robert, Danu Cosmin, Duta Crina et Ionita Adrian_**. Nous avons choisi comme theme  **web crawler**.
 <br><br><br>**2.Des informations sur le sujet**
