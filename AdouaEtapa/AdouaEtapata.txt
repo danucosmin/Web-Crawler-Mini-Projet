@@ -1,0 +1,6 @@
+
+WebCrawler.py este un spiderweb simplu ,acesta deocamdata ia toate urlurile de pe un anumit site, se bazeaza pe doua queue-uri .
+Primul queue retine linkurile care urmeaza sa fie vizitate si elimina tot timpul primul element.
+Al doilea salveaza toate linkurile vizitate.Acestea sunt afisate la sfarsit in consola.
+
+Am folosit biblioteca Beautifulsoup si urlparse2 si am folosit ca IDE JetBrains PyCharm 2016.1.2
